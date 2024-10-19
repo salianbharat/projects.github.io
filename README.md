@@ -1,5 +1,4 @@
-# projects.github.io
-Data Scientist
+##GEN AI Consultant
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, Predictive & Statistical Modelling, Machine Learning 
 Education
 MBA, Project Management | Manipan Unviversity 
